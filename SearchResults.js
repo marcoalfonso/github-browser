@@ -52,8 +52,6 @@ class SearcResults extends Component{
         });
   }
 
-
-
   renderRow(rowData){
     return (
       <TouchableHighlight
